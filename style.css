@@ -51,7 +51,7 @@ textarea{resize:vertical;overflow-y:auto}
 /*sublic*/
 	.wrap{margin:0 auto;}
 	.row{padding:10px 0;position: relative;}
-	.row_top{padding-bottom:10px;}
+	.row_top{margin-bottom:10px;}
 	.dh{-webkit-transition: all .5s ease;-moz-transition: all .5s ease;-ms-transition: all .5s ease;-o-transition: all .5s ease;transition: all .5s ease;}
 	.dh_hover,.dh:hover{-webkit-transform:scale(1.1);-moz-transform:scale(1.1);-ms-transform:scale(1.1);-o-transform:scale(1.1);transform:scale(1.1);}
 	.li_all{position: relative;}
